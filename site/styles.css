@@ -1,6 +1,6 @@
 
          .box {
-         	background-color: #ADD8E6;
+         	background-color: #1d3557;
             
          	margin-bottom: 2%;
             
@@ -11,10 +11,12 @@
          	border: 1px solid black;
          	float: right;
          	width:200px;
-         	background-color: yellow;
+         	
          	margin-top: 0;
          	margin-bottom: 10px;
          	text-align: center;
+            font-family: arial;
+
 
          }
          
@@ -26,6 +28,16 @@
         	width:90%;
         	margin-left: auto;
         	margin-right: auto;
+            color:white;
+        }
+        #l1{
+            background-color: #a8dadc;
+        }
+        #l2{
+            background-color:#e63946;
+        }
+        #l3{
+            background-color: #fec864;
         }
          	
 	    @media(min-width:992px){
